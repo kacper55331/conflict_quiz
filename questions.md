@@ -24,7 +24,7 @@ C) Klucz SHA1 jest unikalny
 
 D) Każdy commit ma swojego rodzica
 
-**Poprawna odpowiedź: B**
+**Poprawna odpowiedź: C**
     
 ## Pytanie 3
 
@@ -38,4 +38,4 @@ C) Git reset z flagą --soft kopiuje dane do sekcji Index.
 
 D) Polecenie git reset przenosi branch na inny commit.
 
-**Poprawna odpowiedź: A**
+**Poprawna odpowiedź: B**
